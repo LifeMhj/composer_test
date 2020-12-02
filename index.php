@@ -1,0 +1,1 @@
+<?phprequire "vendor/autoload.php";$obj = new mk\tt();$obj->sayHello();

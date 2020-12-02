@@ -1,0 +1,19 @@
+{
+    "name": "mark/tt",
+    "description": "this is a test",
+    "require": {
+        "php": "^7.3"
+    },
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "lifemhj",
+            "email": "mahuajiao@live.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "mk\\": "src/mk"
+        }
+    }
+}

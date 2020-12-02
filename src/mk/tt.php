@@ -1,0 +1,1 @@
+<?phpnamespace mk;class tt{    public function sayHello()    {        echo "hello";    }}
