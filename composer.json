@@ -1,5 +1,5 @@
 {
-    "name": "mark/tt",
+    "name": "lifemhj/composer_test",
     "description": "this is a test",
     "require": {
         "php": "^7.3"
